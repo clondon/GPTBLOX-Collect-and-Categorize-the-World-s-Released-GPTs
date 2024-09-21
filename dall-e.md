@@ -3,7 +3,7 @@
 ## DALL-E
 
 ### Image Generation
-- [Super Describe](https://gptblox.com/gpts/super-describe.html) - Upload any image to get a similar one using DALL·E 3 along with the detailed prompt!
+- ~[Super Describe](https://gptblox.com/gpts/super-describe.html) - Upload any image to get a similar one using DALL·E 3 along with the detailed prompt!~
 - [PhotoGPT](https://gptblox.com/gpts/photogpt.html) - Generates stunning photographs based on your input
 - [Create Avatars](https://gptblox.com/gpts/create-avatars.html) - Generates 3D avatars from any uploaded image, or by describing them
 - [Cute Avatar Maker](https://gptblox.com/gpts/cute-avatar-maker.html) - Creates 3D chibi avatars from your photos
